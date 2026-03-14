@@ -1,1 +1,1 @@
-# Managemet 
+# Management
